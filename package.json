@@ -1,0 +1,22 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "application for profile generator",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+
+    },
+
+    "dependencies": {
+        "inquirer":"^8.0.0"
+    },
+    "devDependencies": {
+        "jest":"26.6.3"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author":"Whiskey",
+    "license": "ISC"
+}
