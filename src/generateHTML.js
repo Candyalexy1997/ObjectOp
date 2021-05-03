@@ -4,7 +4,7 @@ const generateManager = function (manager){
         <div class="card h-100">
         <div class="card-header">
             <h3>${manager.name}</h3>
-            <h4>Manager</h4><i class="material-icons">contect_paste</i>
+            <h4>Manager</h4><i class="material-icons">content_paste</i>
             </div>
 
             <div class="card-body">
@@ -20,7 +20,7 @@ const generateManager = function (engineer){
         <div class="card h-100">
         <div class="card-header">
             <h3>${engineer.name}</h3>
-            <h4>Engineer</h4><i class="material-icons">contect_paste</i>
+            <h4>Engineer</h4><i class="material-icons">content_paste</i>
             </div>
 
             <div class="card-body">
